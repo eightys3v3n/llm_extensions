@@ -1,0 +1,17 @@
+{
+  "name": "llm-extensions",
+  "owner": {
+    "name": "Terrence Plunkett"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins: skills, commands, agents and hooks."
+  },
+  "plugins": [
+    {
+      "name": "obsidian",
+      "source": "./plugins/obsidian",
+      "description": "Work with an Obsidian vault through the official Obsidian CLI.",
+      "version": "0.1.0"
+    }
+  ]
+}

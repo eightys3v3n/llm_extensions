@@ -1,0 +1,8 @@
+{
+  "name": "obsidian",
+  "description": "Work with an Obsidian vault through the official Obsidian CLI: read, create, search, rename and move notes with links kept intact.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Terrence Plunkett"
+  }
+}
